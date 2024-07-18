@@ -1,0 +1,42 @@
+#d{
+    text-align: center;
+}
+.cim{
+    text-align: center;
+    font-size:60px;
+}
+
+hr{
+    height:3px;
+    border-width:0;
+    color:black;
+    background-color:black;
+}
+
+
+.hatter{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.keret{
+    border:4px solid purple;
+    border-radius: 20px;
+}
+
+.belso_margo{
+        border: 2px solid mediumblue;
+        padding: 50px;
+
+}
+
+.kulso_margo{
+    border: 2px solid mediumblue;
+    margin: 50px;
+
+}
+
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
